@@ -19,6 +19,14 @@ background-color: rgb(71, 111, 112);
  color:white; 
  text-align:center;
 }
+#myTopnav {
+  overflow: hidden;
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
 #lec{
  background-color: rgb(71, 111, 112);
   color:white; 
